@@ -1,2 +1,2 @@
 # exercises_1
-Exercises example 1
+Hello GitHub!
